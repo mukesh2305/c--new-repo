@@ -1,0 +1,1 @@
+{"name":"Local: sayHello","url":"d:\\competative_programming\\newCommers\\sayHello.cpp","tests":[{"id":1651542968161,"input":"mukesh","output":"Hello, mukesh"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\competative_programming\\newCommers\\sayHello.cpp","group":"local","local":true}

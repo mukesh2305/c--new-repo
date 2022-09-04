@@ -1,0 +1,5 @@
+[
+	{
+		"test": "18 8\nassiutinupperegypt\nsubstr 1 6\nsort 5 8\npop_back\nback\nreverse 1 6\nfront\npush_back i\nprint 4\n"
+	}
+]

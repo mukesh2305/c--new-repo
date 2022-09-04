@@ -1,0 +1,32 @@
+[
+	{
+		"test": "5\nababb\n"
+	},
+	{
+		"test": "abc\n"
+	},
+	{
+		"test": "3\nabc\n"
+	},
+	{
+		"test": "5\naaaac\n"
+	},
+	{
+		"test": "aaa\n"
+	},
+	{
+		"test": "aaba\n"
+	},
+	{
+		"test": "4 \naaba\n"
+	},
+	{
+		"test": "aaa\n"
+	},
+	{
+		"test": "5\nababb\n"
+	},
+	{
+		"test": "aa\n"
+	}
+]

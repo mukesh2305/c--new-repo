@@ -1,0 +1,11 @@
+[
+	{
+		"test": "LEVEL\nONE\n12\n12\n121\n121212\n2122222222222\n\n\n"
+	},
+	{
+		"test": "LEVEL\nONE\n"
+	},
+	{
+		"test": "Programming\ncontest\n"
+	}
+]

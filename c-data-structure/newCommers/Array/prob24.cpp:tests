@@ -1,0 +1,11 @@
+[
+	{
+		"test": "3 3\nxxx\nx.x\nxxx\n2 2\n"
+	},
+	{
+		"test": "3 3\nxxx\nxxx\nxx.\n2 2\n"
+	},
+	{
+		"test": "3 3\nxxx\nxxx\nxxx\n1 1\n"
+	}
+]
